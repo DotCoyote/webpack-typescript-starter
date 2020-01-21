@@ -1,1 +1,1 @@
-export * from './lib/number';
+document.write('Hello Worlds');
